@@ -1,2 +1,2 @@
 # Fun-Stuff
-Random executables, videos, etc.
+Random executables, files, etc.
